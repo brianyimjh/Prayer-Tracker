@@ -1,7 +1,7 @@
 # Prayer-Tracker
 
-Telegram bot to record each individual's prayer time and display the group's total time in a pinned message
+Telegram bot to record each individual's prayer time and display the group's total prayer time in a telegram pinned message
 
-The pinned message is used as a database to store the value in the telegram group
+Google's API is used to connect to a Google Sheet, and that Google Sheet is used as a database to store each individual's prayer time and to calculate the group's total prayer time
 
 Hosted on Heroku
